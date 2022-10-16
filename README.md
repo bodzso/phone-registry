@@ -1,2 +1,4 @@
 # phone-registry
 In 2018 I've written this as a homework assignment at the university.
+
+A mobile operator wants to manage customers with a unique registration program. Customers have a name, address and phone number, which is also their unique identifier. The operator currently offers three packages to its customers: Alap, MobiNet and SMSMax, but more packages may be available in the future. Each package has a different per-minute and SMS rate and may also have a different calculation method. In the case of the MobiNet package, for example, you can also choose how many SMS messages you can send for free. The program reads the customer's details and chosen plan from a file. From another file, the number of SMS sent in a given month and the minutes used. The program calculates how much each customer pays based on the traffic.
